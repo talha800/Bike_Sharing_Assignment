@@ -9,7 +9,7 @@ Many bike share systems allow people to borrow a bike from a "dock" which is usu
 
 
 
-## Technologies Used
+## Python Libraries Used
 - Sklearn Library
 - Stats Model Library
 
